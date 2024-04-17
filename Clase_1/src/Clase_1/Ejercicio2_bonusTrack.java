@@ -1,3 +1,5 @@
+package Clase_1;
+
 import inputReader.InputReader;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

@@ -1,3 +1,5 @@
+package Clase_1;
+
 import inputReader.InputReader;
 import java.util.Scanner;
 public class Triangulo {
@@ -16,7 +18,7 @@ public class Triangulo {
             System.out.println("Ingrese el Valor del tercero lado del triangulo");
              lado3 = InputReader.nextInt();
             Boolean triangulo = ((lado1 + lado2 > lado3) && lado1 > 0 && (lado2 + lado3 > lado1) && lado2>0 && (lado1 + lado3 > lado2) && lado3 > 0);
-            System.out.println("Es un Triangulo " + triangulo);
+            System.out.println("Es un Clase_1.Triangulo " + triangulo);
 
         }
         catch (Exception exc ) {
