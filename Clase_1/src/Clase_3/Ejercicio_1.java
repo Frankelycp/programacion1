@@ -4,6 +4,8 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+//ESTO FUE UN CAMBIO HECHO PARA PROBAR.
+
 public class Ejercicio_1 {
     public static void main(String[] args) throws IOException {
         char numero = obtenerChar();
